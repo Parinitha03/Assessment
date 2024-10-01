@@ -1,0 +1,102 @@
+[
+  {
+    "trainingName": "Electrical Safety for Labs",
+    "count": 125
+  },
+  {
+    "trainingName": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "count": 109
+  },
+  {
+    "trainingName": "Awareness Training for the Transport of Hazardous Material",
+    "count": 117
+  },
+  {
+    "trainingName": "X-Ray Safety",
+    "count": 130
+  },
+  {
+    "trainingName": "Radiation Safety Annual Refresher",
+    "count": 128
+  },
+  {
+    "trainingName": "Using Hazardous Chemicals in an Animal Care Facility",
+    "count": 121
+  },
+  {
+    "trainingName": "Chemical Waste Requirements",
+    "count": 121
+  },
+  {
+    "trainingName": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "count": 126
+  },
+  {
+    "trainingName": "Transportation of Infectious Substances, Category B",
+    "count": 113
+  },
+  {
+    "trainingName": "Working in Cold Temperatures",
+    "count": 121
+  },
+  {
+    "trainingName": "Occupational Exposure to Bloodborne Pathogens",
+    "count": 106
+  },
+  {
+    "trainingName": "Laboratory Safety Training",
+    "count": 118
+  },
+  {
+    "trainingName": "Basic Training Program for Animal Users",
+    "count": 127
+  },
+  {
+    "trainingName": "Physical Science Responsible Conduct of Research Course 1.",
+    "count": 122
+  },
+  {
+    "trainingName": "Animal Care And Use Risk Assessment",
+    "count": 106
+  },
+  {
+    "trainingName": "Understanding Biosafety",
+    "count": 131
+  },
+  {
+    "trainingName": "NIH Guidelines Overview",
+    "count": 105
+  },
+  {
+    "trainingName": "Radioactive Materials Safety Training",
+    "count": 126
+  },
+  {
+    "trainingName": "Health Screening Questionnaire",
+    "count": 123
+  },
+  {
+    "trainingName": "DOT Hazard Material Awareness",
+    "count": 124
+  },
+  {
+    "trainingName": "IRB Quiz",
+    "count": 103
+  },
+  {
+    "trainingName": "OHS Training",
+    "count": 121
+  },
+  {
+    "trainingName": "Retraining in working with the IACUC",
+    "count": 117
+  },
+  {
+    "trainingName": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "count": 118
+  },
+  {
+    "trainingName": "Medical Records",
+    "count": 109
+  }
+]

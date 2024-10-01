@@ -1,0 +1,15 @@
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\bin\Debug\net7.0\TrainingDemo.exe
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\bin\Debug\net7.0\Data\trainings.txt
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\bin\Debug\net7.0\TrainingDemo.deps.json
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\bin\Debug\net7.0\TrainingDemo.runtimeconfig.json
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\bin\Debug\net7.0\TrainingDemo.dll
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\bin\Debug\net7.0\TrainingDemo.pdb
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\TrainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\TrainingDemo.AssemblyInfoInputs.cache
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\TrainingDemo.AssemblyInfo.cs
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\TrainingDemo.csproj.CoreCompileInputs.cache
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\TrainingDemo.dll
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\refint\TrainingDemo.dll
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\TrainingDemo.pdb
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\TrainingDemo.genruntimeconfig.cache
+C:\Users\vishn\Documents\Pari\C#\TrainingDemo\obj\Debug\net7.0\ref\TrainingDemo.dll
