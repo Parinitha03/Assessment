@@ -16,3 +16,5 @@ Generated output files will be located in the "Output" folder created in the pro
 outpur_1.txt : Training completion counts
 output_2.txt : Training completions by fiscal year
 output_3.txt: List of prople with expired or soon-to-expire trainings by fiscal year
+
+PLEASE FIND THE OUTPUT FILES IN THE "Output" FOLDER IN THIS REPO.
