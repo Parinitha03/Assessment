@@ -42,7 +42,7 @@ namespace TrainingDemo
 			Console.WriteLine("All reports generated");
 		}
 
-		private List<Person> LoadPeopleData()
+		public List<Person> LoadPeopleData()
 		{
 			if (!Directory.Exists("Output"))
 			{
@@ -53,7 +53,8 @@ namespace TrainingDemo
 			return JsonSerializer.Deserialize<List<Person>>(jsonData);
 		}
 
-		private void GenerateTrainingCompletionCountReport(List<Person> people)
+		//Task 1: List each completed training with a count of how many people completed it.
+		public void GenerateTrainingCompletionCountReport(List<Person> people)
 		{
 			var completedTrainingCounts = people
 				.Where(person => person.completions != null)
@@ -68,7 +69,8 @@ namespace TrainingDemo
 			File.WriteAllText(Path.Combine("Output/output_1.txt"), JsonSerializer.Serialize(completedTrainingCounts, _options));
 		}
 
-		private void GenerateTrainingCompletionByFiscalYearReport(List<Person> people)
+		//Task 2: List all people that completed specific trainings in a given fiscal year.
+		public void GenerateTrainingCompletionByFiscalYearReport(List<Person> people)
 		{
 			var targetTrainings = new[] { "Electrical Safety for Labs", "X-Ray Safety", "Laboratory Safety Training" };
 			DateTime fiscalYearStart = new DateTime(2023, 7, 1);
@@ -98,7 +100,8 @@ namespace TrainingDemo
 			File.WriteAllText(Path.Combine("Output/output_2.txt"), JsonSerializer.Serialize(trainingInFiscalYear, _options));
 		}
 
-		private void GenerateExpiringTrainingReport(List<Person> people)
+		//Task 3: Find people with expired or soon-to-expire trainings
+		public void GenerateExpiringTrainingReport(List<Person> people)
 		{
 			DateTime targetDate = new DateTime(2023, 10, 1);
 			DateTime oneMonthFromTarget = targetDate.AddMonths(1);
